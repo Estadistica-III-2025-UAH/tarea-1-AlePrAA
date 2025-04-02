@@ -73,7 +73,7 @@ purrr: Programación funcional para listas.
 
 Aquí se presenta un esquema del flujo de trabajo en R:
 
-![Ejemplo de Flujo](./Input/flujo1.png)
+![Ejemplo de Flujo](../Input/flujo1.png)
 
 - **aporte**: Contiene datos de entrada o documentos de referencia.
 - **R**: Guarda los scripts en R que procesan los datos.
@@ -85,7 +85,7 @@ Un archivo `.Rproj` (R Project) organiza el entorno de trabajo en RStudio, facil
 
 ## 3. Descriptivos
 
-![Evolución de la pobreza 1990-2017: ¿Cómo ha cambiado Chile?](./Input/imagen1.jpg)
+![Evolución de la pobreza 1990-2017: ¿Cómo ha cambiado Chile?](../Input/imagen1.jpg)
 
 
 
